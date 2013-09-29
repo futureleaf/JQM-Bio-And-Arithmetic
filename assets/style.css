@@ -1,0 +1,10 @@
+.circle {
+	height:150px;
+	width:150px;
+	-webkit-border-radius:100px;
+	-moz-border-radius:100px;
+	-o-border-radius:100px;
+	border:7px solid #dedede;
+	background:url('images/ff13!.jpg');
+	margin:0 auto;
+}
